@@ -3,8 +3,9 @@
 4345566
  ni shi ge sha ,he he !
 zhe shi wang wu de wen jian jia . ÍõÎå
-<<<<<<< HEAD
+
 wo shi wang wu ,wo you ti jiao le yi ci ,ha ha !
-=======
+
 wo shi zhang san ,wo ye yao ti jiao yi ci !
->>>>>>> 1060f2b5e074041544088f08eeb4c648a5bc0150
+
+jie jue chong tu !
